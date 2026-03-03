@@ -67,6 +67,7 @@
     <Compile Include="Agent.cs">
       <DependentUpon>Hakimov_db.tt</DependentUpon>
     </Compile>
+    <Compile Include="AgentPartial.cs" />
     <Compile Include="AgentPriorityHistory.cs">
       <DependentUpon>Hakimov_db.tt</DependentUpon>
     </Compile>
